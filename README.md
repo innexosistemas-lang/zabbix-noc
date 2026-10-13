@@ -1,4 +1,4 @@
-# zabbix-noc-lab
+# zabbix-noc
 
 > Monitoramento estilo **NOC** com **Zabbix + Grafana**: disponibilidade de hosts e serviços, alertas, dashboards e troubleshooting.
 
